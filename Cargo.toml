@@ -1,7 +1,10 @@
 [package]
 name = "closure-pass"
+description = "Proc-macro for specifying kind of passing variables to closures"
 version = "0.1.0"
 authors = ["Kitsu <mail@kitsu.me>"]
+license = "MIT OR Apache-2.0"
+categories = ["development-tools", "development-tools::procedural-macro-helpers"]
 edition = "2018"
 
 [lib]
